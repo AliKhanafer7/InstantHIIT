@@ -13,6 +13,7 @@
 		B682CAB4259BA21700AB35BB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B682CAB3259BA21700AB35BB /* Preview Assets.xcassets */; };
 		B682CABF259BA21800AB35BB /* InstantHIITTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B682CABE259BA21800AB35BB /* InstantHIITTests.swift */; };
 		B682CACA259BA21800AB35BB /* InstantHIITUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B682CAC9259BA21800AB35BB /* InstantHIITUITests.swift */; };
+		B6CF4C0A259BA60600EBE630 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B6CF4C09259BA60600EBE630 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B682CAC5259BA21800AB35BB /* InstantHIITUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstantHIITUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B682CAC9259BA21800AB35BB /* InstantHIITUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstantHIITUITests.swift; sourceTree = "<group>"; };
 		B682CACB259BA21800AB35BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6CF4C09259BA60600EBE630 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		B682CAA0259BA21400AB35BB = {
 			isa = PBXGroup;
 			children = (
+				B6CF4C09259BA60600EBE630 /* README.md */,
 				B682CAAB259BA21400AB35BB /* InstantHIIT */,
 				B682CABD259BA21800AB35BB /* InstantHIITTests */,
 				B682CAC8259BA21800AB35BB /* InstantHIITUITests */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6CF4C0A259BA60600EBE630 /* README.md in Resources */,
 				B682CAB4259BA21700AB35BB /* Preview Assets.xcassets in Resources */,
 				B682CAB1259BA21700AB35BB /* Assets.xcassets in Resources */,
 			);
